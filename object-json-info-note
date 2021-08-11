@@ -1,0 +1,4 @@
+{
+  "type": "service_account",
+  # note: project_id/json information needed from user's Google service account
+}
